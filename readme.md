@@ -1,4 +1,3 @@
 # READ THIS!
-
-## Git is cool!
+BLAH BLAH BLAH 
 ### Yay
